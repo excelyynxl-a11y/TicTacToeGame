@@ -23,6 +23,9 @@ This project demonstrates core web development concepts like **event handling** 
 
 ---
 
+## 🔗Deployed on GitPages
+🖇️[Play TicTacToe here!](https://excelyynxl-a11y.github.io/TicTacToeGame/)
+
 ## 📂 Project Source 
 🎥 [Thank you so much](https://youtu.be/VAjbRrZm80s?si=aCGSYtN6JLYnEjAV)
 
